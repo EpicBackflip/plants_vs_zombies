@@ -1,0 +1,35 @@
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\spr_background.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\plants vs zombies.exe
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\plants vs zombies.pdb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\MonoGame.Framework.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.MediaFoundation.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.XAudio2.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.DXGI.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.Direct3D11.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.Direct2D1.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.XInput.dll
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\MonoGame.Framework.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.MediaFoundation.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.XAudio2.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.DXGI.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.Direct3D11.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.Direct2D1.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\SharpDX.XInput.xml
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\obj\x86\Debug\plants vs zombies.csprojAssemblyReference.cache
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\obj\x86\Debug\plants vs zombies.csproj.CopyComplete
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\obj\x86\Debug\plants vs zombies.exe
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\obj\x86\Debug\plants vs zombies.pdb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\spr_zombie_okemaarnuechtdelaatstekeer.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\plant_nog_kleine.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\CursorGrijs_kleiner.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\laser_kleiner.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\hartje_kleiner.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\Wood_Game_Panel_breeder.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\grasmaaier.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\Square_kleiner.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\GameOver.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\Panel_Vertical.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\zonnebloem.xnb
+C:\Users\Milan\source\repos\plants vs zombies\plants vs zombies\bin\Windows\x86\Debug\Content\zon.xnb

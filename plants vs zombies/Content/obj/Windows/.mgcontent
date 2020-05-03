@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SourceFileCollection xmlns:xsd="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance">
+  <Profile>Reach</Profile>
+  <Platform>Windows</Platform>
+  <Config />
+  <SourceFiles>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/CursorGrijs_kleiner.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/GameOver.jpg</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/grasmaaier.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/hartje_kleiner.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/laser_kleiner.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/Panel_Vertical.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/plant_nog_kleine.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/spr_background.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/spr_zombie_okemaarnuechtdelaatstekeer.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/Square_kleiner.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/zon.png</File>
+    <File>C:/Users/Milan/source/repos/plants vs zombies/plants vs zombies/Content/zonnebloem.png</File>
+  </SourceFiles>
+  <DestFiles>
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+    <File xsi:nil="true" />
+  </DestFiles>
+</SourceFileCollection>
